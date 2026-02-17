@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Munzur Yeşilçayır</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
-- 💬 Ask me about **React,.Net**
+-  Ask me about **React,.Net**
 
-- 📫 How to reach me **munzuryesilcayir@gmail.com**
+-  How to reach me **munzuryesilcayir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
